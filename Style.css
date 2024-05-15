@@ -1,0 +1,41 @@
+
+  body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.city {
+  background-color: #007bff;
+  color: white;
+  border: 2px solid #0056b3;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.city h3 {
+  margin-top: 0;
+}
+
+.city p {
+  margin-bottom: 10px;
+}
+
+.city a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.city a:hover {
+	color: greenyellow;
+}
+.city a {
+	margin-right: 20px; /* Adjust the value as needed */
+}
